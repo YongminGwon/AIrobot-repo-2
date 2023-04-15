@@ -68,7 +68,7 @@ __차세대 물류 서비스 구현__ 을 위해 저희는 __배송로봇__ 을 
 
 
 ## 프로젝트 역할 분배
-### Task 1 : RGB-D Camera를 활용한 RtabMap 으로  Visual SLAM 결과물 제시
+### Task 1 : RGB-D Camera를 활용한 VSLAM 결과물 제시
 - 장애물 탐지 및 렌드마크 탐지 알고리즘 및 ROS상에서 메시지로 발행하는 코드 작성
 
 <br>
